@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## :mortar_board: About Me
+
+I am a Computer Engineering undergraduate student at Simon Fraser University. I am currently working on projects for both school and for fun!
+
+
+## 📫 Contact
+You can reach me at: ctesar@sfu.ca
+
+Follow Me:
+[![forthebadge](https://img.shields.io/github/followers/christophertesar?label=GitHub&style=social)](https://github.com/christophertesar)

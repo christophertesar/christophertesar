@@ -1,26 +1,14 @@
 ### Hello, my name is Chris! 👋
 
-<!--
-**christophertesar/christophertesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- :mortar_board: I am a Computer Engineering undergraduate student at Simon Fraser University. I am currently working on projects for both school and for fun!
+- :eyes: I am currently interested in using and programming embedded systems. I also like making practical projects using C++.
+- :books: I like to read books and go biking in my free time. Spotify is my best friend, I love all types of music!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## :mortar_board: About Me
-
-I am a Computer Engineering undergraduate student at Simon Fraser University. I am currently working on projects for both school and for fun!
-
-
-## 📫 Contact
-You can reach me at: ctesar@sfu.ca
+## Contact
+📫 You can reach me at: ctesar@sfu.ca
 
 Follow Me:
 [![forthebadge](https://img.shields.io/github/followers/christophertesar?label=GitHub&style=social)](https://github.com/christophertesar)
+[![forthebadge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/christesar)

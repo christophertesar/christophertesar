@@ -12,5 +12,5 @@
 
 Follow Me:
 [![forthebadge](https://img.shields.io/github/followers/christophertesar?label=GitHub&style=social)](https://github.com/christophertesar)
-[![forthebadge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/christesar?si=LuHijaBJR7WFSc1pk_s4iQ)
+
 

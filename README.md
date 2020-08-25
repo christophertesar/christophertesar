@@ -8,9 +8,9 @@
 
 
 ## Contact
-📫 You can reach me at: ctesar@sfu.ca
+📫 You can reach me at: <ctesar@sfu.ca>
 
 Follow Me:
 [![forthebadge](https://img.shields.io/github/followers/christophertesar?label=GitHub&style=social)](https://github.com/christophertesar)
-[![forthebadge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/christesar)
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:christesar&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+[![forthebadge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/christesar?si=LuHijaBJR7WFSc1pk_s4iQ)
+

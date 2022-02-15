@@ -4,7 +4,7 @@
 
 - :mortar_board: I am a Computer Engineering undergraduate student at Simon Fraser University. I am currently working on projects for both school and for fun!
 - :eyes: I am currently interested in using and programming embedded systems. I also like making practical projects using C++.
-- :books: I like to read books and go biking in my free time. Spotify is my best friend, I love all types of music!
+- :books: I like to read books and go biking in my free time.
 
 
 ## Contact
